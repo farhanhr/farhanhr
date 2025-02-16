@@ -1,5 +1,13 @@
-## Hi there 👋
+<h1 align="center">Farhan Husyen Ramadhan</h1>
+<p align="justify">
+Hello there, I'm Farhan Husyen Ramadhan. A student and software development enthusiast. I'm familiar with android development and web development. I'm well-versed with Kotlin for android development and JavaScript for web development. I love exploring technology and always like to try a new one. </p>
 
+<h3 align="left">Tools</h3>
+<p align="left"> 
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,kotlin,androidstudio,php,laravel,express,react,mongodb,mysql,python,figma)](https://skillicons.dev)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhanhr&show_icons=true&locale=en&theme=tokyonight&hide=python,jupyter+notebook" alt="farhanhr" /></p>
 <!--
 **farhanhr/farhanhr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
