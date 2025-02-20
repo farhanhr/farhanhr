@@ -15,7 +15,7 @@ Hello there, I'm Farhan Husyen Ramadhan. A student and software development enth
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,kotlin,androidstudio,php,laravel,express,react,mongodb,mysql,python,figma)](https://skillicons.dev)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhanhr&show_icons=true&locale=en&theme=tokyonight&hide=python,jupyter+notebook" alt="farhanhr" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhanhr&show_icons=true&locale=en&theme=tokyonight&hide=html,css,blade,jupyter+notebook" alt="farhanhr" />
 <!--
 **farhanhr/farhanhr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
