@@ -2,12 +2,6 @@
 <p align="justify">
 Hello there, I'm Farhan Husyen Ramadhan. A student and software development enthusiast. I'm familiar with android development and web development. I'm well-versed with Kotlin for android development and JavaScript for web development. I love exploring technology and always like to try a new one. </p>
 
----
-
-<h3 align="left">🌐 Connect with me</h3>
-  <a href="https://linkedin.com/in/farhanhram" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
-  </a>
   
 ---
 
