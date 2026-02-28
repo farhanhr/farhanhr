@@ -13,7 +13,7 @@ Hello there, I'm Farhan Husyen Ramadhan. A student and software development enth
 
 <h3 align="left">🧑‍💻 Stats</h3>
 
-![Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=farhanhr&layout=donut-vertical&hide=html,css,blade,jupyter+notebook)
+![Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=farhanhr&layout=donut-vertical&hide=html,css,blade,jupyter+notebook&theme=tokyonight)
 
 
 
