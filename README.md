@@ -7,13 +7,13 @@ Hello there, I'm Farhan Husyen Ramadhan. A student and software development enth
 
 <h3 align="left">🖥️ Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,kotlin,androidstudio,php,laravel,express,react,mongodb,mysql,python,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,go,js,ts,kotlin,androidstudio,php,laravel,express,react,mongodb,mysql,figma)](https://skillicons.dev)
 
 ---
 
 <h3 align="left">🧑‍💻 Stats</h3>
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=farhanhr&show_icons=true&locale=en&theme=tokyonight&hide=html,css,blade,jupyter+notebook)
+![Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=farhanhr&layout=donut-vertical&hide=html,css,blade,jupyter+notebook)
 
 
 
