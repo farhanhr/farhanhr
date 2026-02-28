@@ -1,6 +1,6 @@
 <h1 align="center">Farhan Husyen Ramadhan</h1>
 <p align="justify">
-Hello there, I'm Farhan Husyen Ramadhan. A student and software development enthusiast. I'm familiar with android development and web development. I'm well-versed with Kotlin for android development and JavaScript for web development. I love exploring technology and always like to try a new one. </p>
+A motivated student with a strong foundation in software development and data analysis. Experienced in working with web development, data processing and exploratory analysis. Eager to contribute analytical thinking, problem-solving skills, and a continuous learning mindset. </p>
 
   
 ---
