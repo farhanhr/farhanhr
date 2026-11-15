@@ -33,12 +33,16 @@
 <h3 align="left">GitHub Statistics</h3>
 
 <p align="center">
-<img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=farhanhr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-<img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=farhanhr&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,blade,jupyter%20notebook"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=farhanhr&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://streak-stats.demolab.com?user=farhanhr&theme=tokyonight&hide_border=true"
+    height="150"
+    alt="GitHub Streak Stats"
+  />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=farhanhr&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,blade,jupyter%20notebook"
+    height="150"
+    alt="Top Languages"
+  />
 </p>
 
 <h3 align="left">Contacts</h3>
