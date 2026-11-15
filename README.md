@@ -1,5 +1,3 @@
-<h1>Farhan Husyen Ramadhan</h1>
-
 <p align="center">
 <img src="assets/bannerroom.gif" width="100%" alt="profil banner"/>
 </p>
